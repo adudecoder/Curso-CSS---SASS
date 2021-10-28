@@ -1,0 +1,16 @@
+@font-face {
+  font-family: "Open Sans", sans-serif;
+  src: url("../fonts/OpenSans/opensans-regular.ttf");
+  font-weight: 400;
+}
+@font-face {
+  font-family: "Open Sans", "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  src: url("../fonts/OpenSans/opensans-regular.ttf");
+  font-weight: 400;
+}
+body {
+  font-family: "Open Sans", "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 20px;
+}
+
+/*# sourceMappingURL=style.css.map */

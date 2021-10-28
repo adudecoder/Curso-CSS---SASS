@@ -1,0 +1,11 @@
+@mixin avatar($tamanho, $circulo: false) {
+    width: $tamanho;
+    height: $tamanho;
+    @if $circulo {
+        border-radius: $tamanho / 2;
+    }
+}
+
+.photo {
+    @include avatar(150px, true);
+}
