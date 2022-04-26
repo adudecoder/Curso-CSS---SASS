@@ -39,6 +39,7 @@ Uma **propriedade CSS** é uma característica (como a cor) cujo valor define o 
 </html> 
 ```
 Porém temos uma desvantagem que a cada arquivo **HTML** teremos que abrir uma tag **Style** dentro desse arquivo o que deixa o código maior e mais pesado para a execução
+
 2. Segundo método é utilizando o **CSS-Inline**
 * Esse método consiste em vc utilizar uma **PROPRIEDADE STYLE** dentro de uma tag **HTML**, como nós podemos ver no exemplo abaixo.
 ```
@@ -53,6 +54,7 @@ Porém temos uma desvantagem que a cada arquivo **HTML** teremos que abrir uma t
 </html>
 ```
 Assim como o método da **tag Style**, a cada arquivo **HTML** criado vc deve colocar um **CSS-Inline** em eleentos o qual vc deseja manipular sua estilização
+
 3. Terceiro método é utilizando o **CSS Externo**
 * Esse método consiste em vc criar um arquivo externo **.CSS** e fazer um link dele com o arquivo **HTML** usando uma tag chamada de **LINK**.
 ```
